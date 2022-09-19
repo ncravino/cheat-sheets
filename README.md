@@ -1,2 +1,3 @@
 # cheat-sheets
-Various Cheat Sheets
+
+[Git Cheat Sheet](./git-cheat-sheet.md)
