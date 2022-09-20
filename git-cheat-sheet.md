@@ -15,7 +15,7 @@
 ### Rename branch
 
 After `git checkout branch-to-rename`:
-- `git branch -m branch-to-rename` rename branch
+- `git branch -m branch-to-rename new-name` rename branch
 
 ## Squash multiple commits
 
